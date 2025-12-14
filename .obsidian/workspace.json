@@ -28,17 +28,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tab 2.md",
+                "file": "SMB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tab 2"
+              "title": "SMB"
             }
           },
           {
             "id": "690980d95b8576a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSSQL Server.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MSSQL Server"
+            }
+          },
+          {
+            "id": "a7bb18bac84077c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privilege Escalation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Privilege Escalation"
+            }
+          },
+          {
+            "id": "25260b294450e876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foothold.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Foothold"
+            }
+          },
+          {
+            "id": "89676d5306c8d7de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Target_Machie",
+                "query": "oo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/mssql.png",
+                "file": "Privilege Escalation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mssql"
+              "title": "Outline of Privilege Escalation"
             }
           },
           {
@@ -345,27 +390,33 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "49d2e38fa784abc2",
+  "active": "a7bb18bac84077c7",
   "lastOpenFiles": [
+    "Tab 7.md",
+    "Tab 6.md",
+    "Tab 5.md",
     "Tab 4.md",
+    "MSSQL Server.md",
+    "Foothold.md",
+    "Tab 3.md",
+    "Privilege Escalation.md",
+    "SMB.md",
+    "Tab 2.md",
+    "Enumeration.md",
+    "Tab 1.md",
+    "Privilege Escalation",
+    "images/whoami.png",
+    "images/user_dir.png",
+    "images/foothold.png",
+    "images/200.png",
+    "images/path.png",
     "images/mssql1.png",
     "images/xp_cmshell_error.png",
-    "Tab 3.md",
-    "Tab 2.md",
-    "Tab 1.md",
     "images/nmap2.png",
     "images/nmap1.png",
     "images/mssql.png",
     "index.md",
-    "Tab 5.md",
-    "Tab 6.md",
-    "Tab 7.md",
-    "images/password.png",
-    "images/prod.dtsconfig.png",
-    "images/smbclient.png",
-    "images/nmap.png",
     "images",
-    "images/banner.png",
     "README.md",
     "ACT I - Somethig phishy/Investigating.md",
     "ACT I - Somethig phishy/Ghidra.md",
@@ -381,16 +432,11 @@
     "Middle Camp/Second Question.md",
     "Middle Camp/Root's flag.md",
     "Middle Camp/Privilege Escalation.md",
-    "Middle Camp/Lateral Movement II.md",
-    "Middle Camp/Lateral Movement I.md",
-    "Middle Camp/Foothold.md",
-    "Middle Camp/First question.md",
     "docs/lib/metadata.json",
     "docs/lib/media",
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "docs/lib/fonts/05b618077343fbbd92b7.ttf",
     "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/454577c22304619db035.ttf",
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf"
+    "docs/lib/fonts/454577c22304619db035.ttf"
   ]
 }
