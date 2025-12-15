@@ -403,8 +403,9 @@
   },
   "active": "8b08ec97de616fe5",
   "lastOpenFiles": [
-    "Tab 7.md",
+    "README.md",
     "index.md",
+    "Tab 7.md",
     "Reverse shell.md",
     "Foothold.md",
     "Privilege Escalation.md",
@@ -429,7 +430,6 @@
     "images/path.png",
     "images/mssql1.png",
     "images",
-    "README.md",
     "ACT I - Somethig phishy/Investigating.md",
     "ACT I - Somethig phishy/Ghidra.md",
     "ACT I - Somethig phishy/Connecting.md",

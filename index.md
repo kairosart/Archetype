@@ -1,5 +1,8 @@
 ![[banner.png]]
 
+
+**Archetype** is a Windows-based Starting Point machine on Hack The Box focused on basic enumeration, SMB access, MSSQL exploitation, and Windows privilege escalation. It is designed to introduce common enterprise misconfigurations and attack paths.
+
 ## Steps
 
 1. [[Enumeration]]
