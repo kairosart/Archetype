@@ -27,3 +27,5 @@ smb> dir
 
 
 By reviewing the content of this configuration file, we spot in cleartext the password of the user `sql_svc` , which is `M3g4c0rp123` , for the host `ARCHETYPE` . With the provided credentials we just need a way to connect and authenticate to the MSSQL server.
+
+**Next step:** [[MSSQL Server]]
