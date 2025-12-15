@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           },
           {
@@ -129,7 +129,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -230,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of README"
             }
           },
           {
@@ -403,51 +403,51 @@
   },
   "active": "8b08ec97de616fe5",
   "lastOpenFiles": [
-    "README.md",
-    "index.md",
+    "docs/lib/metadata.json",
     "Tab 7.md",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "Tab 6.md",
+    "Tab 5.md",
+    "Tab 4.md",
+    "Tab 3.md",
+    "Tab 2.md",
+    "SMB.md",
     "Reverse shell.md",
-    "Foothold.md",
     "Privilege Escalation.md",
     "MSSQL Server.md",
-    "SMB.md",
+    "index.md",
+    "Foothold.md",
     "Enumeration.md",
+    "README.md",
     "Tab 1.md",
-    "Tab 2.md",
     "images/privileges.png",
-    "Tab 4.md",
     "images/admin_shell.png",
     "images/admin_pass.png",
     "images/consolehos_history.png",
-    "Tab 6.md",
-    "Tab 5.md",
-    "Tab 3.md",
-    "Privilege Escalation",
     "images/whoami.png",
     "images/user_dir.png",
     "images/foothold.png",
     "images/200.png",
     "images/path.png",
-    "images/mssql1.png",
-    "images",
     "ACT I - Somethig phishy/Investigating.md",
     "ACT I - Somethig phishy/Ghidra.md",
     "ACT I - Somethig phishy/Connecting.md",
-    "ACT I - Somethig phishy",
-    "images",
     "The Summit/User's flag.md",
     "The Summit/Shell as o.armstrong.md",
     "The Summit/Foothold.md",
     "The Summit/Escalation to Domain Admin.md",
     "Middle Camp/Shell as R.Bud.md",
     "Middle Camp/Shell as J.Smith.md",
-    "Middle Camp/Second Question.md",
-    "Middle Camp/Root's flag.md",
-    "docs/lib/metadata.json",
-    "docs/lib/media",
-    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "docs/lib/fonts/454577c22304619db035.ttf"
+    "Middle Camp/Second Question.md"
   ]
 }
